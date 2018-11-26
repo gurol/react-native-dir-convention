@@ -10,6 +10,8 @@ You can refer the following studies I compiled for you (thanks to the authors):
 
 I have been developing this file/directory organization convention that is based on my experience and will be matured by my practices.
 
+![](images/directory_organization.png)
+
 The convention is not solely for presenting a directory hieararchy, but also includes some organized development techniques such as error displaying, styles, and preparing package.json for local directories in order to eliminate "../../" style relative paths in importing modules.
 
 There are some recommended approaches presented in the files such as Settings.js for storing run-time and/or persistent preference settings of a mobile application.
